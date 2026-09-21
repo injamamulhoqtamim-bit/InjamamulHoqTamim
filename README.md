@@ -1,17 +1,49 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Md. Injamamul Hoq Tamim Header" />
-</p>
+  <svg width="100%" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 800px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+    <defs>
+      <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#050B14"/>
+        <stop offset="50%" stop-color="#0A1628"/>
+        <stop offset="100%" stop-color="#050B14"/>
+      </linearGradient>
+      <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#38BDF8"/>
+        <stop offset="50%" stop-color="#818CF8"/>
+        <stop offset="100%" stop-color="#C084FC"/>
+      </linearGradient>
+      <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+        <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.8" opacity="0.4"/>
+      </pattern>
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="15" result="blur" />
+        <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+      </filter>
+    </defs>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=220&section=header&text=Md.%20Injamamul%20Hoq%20Tamim&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%26%20Networking%20Enthusiast&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
-</div>
+    <rect width="800" height="220" rx="16" fill="url(#bg-grad)"/>
+    <rect width="800" height="220" rx="16" fill="url(#grid)"/>
+
+    <circle cx="100" cy="40" r="120" fill="#2563EB" opacity="0.12" filter="url(#glow)"/>
+    <circle cx="700" cy="180" r="100" fill="#38BDF8" opacity="0.15" filter="url(#glow)"/>
+    <rect x="40" y="20" width="720" height="180" rx="12" fill="none" stroke="url(#text-grad)" stroke-width="1" opacity="0.2"/>
+
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="900" fill="url(#text-grad)" letter-spacing="4">
+      MD. INJAMAMUL HOQ TAMIM
+    </text>
+
+    <line x1="250" y1="130" x2="550" y2="130" stroke="url(#text-grad)" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+
+    <text x="50%" y="165" dominant-baseline="middle" text-anchor="middle" font-family="'Fira Code', monospace, sans-serif" font-size="14" font-weight="500" fill="#94A3B8" letter-spacing="2">
+      FULL-STACK DEVELOPER  •  CYBERSECURITY ENTHUSIAST
+    </text>
+  </svg>
+</p>
 
 <p align="center">
   <a href="https://github.com/injamamulhoqtamim-bit">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Md.%20Injamamul%20Hoq%20Tamim%20%F0%9F%91%8B;Computer%20Science%20%26%20Engineering%20Graduate%20%F0%9F%8E%93;Full-Stack%20Web%20Developer%20%F0%9F%92%BB;Cybersecurity%20%26%20Networking%20Enthusiast%20%F0%9F%94%90;Building%20Modern%20Web%20Experiences%20%26%20Learning%20Continuously%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/injamamul-hoq-tamim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
@@ -24,6 +56,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0a0a" alt="Location" />
 </p>
+
 
 <h2 align="center">🔵 About Me</h2>
 <p align="center">
@@ -47,7 +80,6 @@
   💬 <b>Interested In:</b> Full-Stack Web Development, Cybersecurity, Networking &amp; Research.<br />
   ⚡ <b>Goal:</b> <i>Build useful technology while continuously improving my technical and research skills.</i>
 </p>
-
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
@@ -71,12 +103,14 @@
 </tr>
 </table>
 
+
 <h2 align="center">🔵 Career Goal</h2>
 <p align="center">
   <i>
     "To build a professional career in full-stack web development and cybersecurity while continuously improving my software engineering, networking, and security research skills."
   </i>
 </p>
+
 
 <h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
 <p align="center"><b>Core Programming Languages</b></p>
@@ -123,10 +157,12 @@
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
 </p>
 
+
 <h2 align="center">🚀 Projects</h2>
 <p align="center">
   <i>Projects will be featured here as they are added and documented.</i>
 </p>
+
 
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 <p align="center">
@@ -137,14 +173,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=injamamulhoqtamim-bit&theme=tokyonight&hide_border=false&border=38BDF8&background=0a0a0a&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Technology Quote" />
-</p>
+
 
 <h2 align="center">⚡ Contribution Journey</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 </p>
+
 
 <h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
 <p align="center">
@@ -172,6 +207,3 @@
 </td>
 </tr>
 </table>
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
