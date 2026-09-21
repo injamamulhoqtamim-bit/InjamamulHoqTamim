@@ -1,162 +1,188 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="MD. INJAMAMUL HOQ TAMIM Header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=230&section=header&text=MD.%20INJAMAMUL%20HOQ%20TAMIM&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=48&stroke=ff2a5f&strokeWidth=2&subtext=%E2%80%A2%20BUILDING%20REAL-WORLD%20TECH%20%E2%80%A2%0ACOMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20AI%20%26%20IOT%20DEVELOPER%0A%3C%2F%3E%20TURNING%20RANDOM%20IDEAS%20INTO%20PRODUCTION%20CODE&subtextBg=false&subfontSize=13&subtextAlignY=75&subfontColor=ff2a5f" width="100%" />
+<p align="center">
+  <a href="https://github.com/DeepakAmalWinstarJ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20MD.%20INJAMAMUL%20HOQ%20TAMIM%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+  </a>
+</p>
 
-# Hi there! I'm Md. Injamamul Hoq Tamim 👋
+<p align="center">
+  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/techwin.in" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:deepakamalwinstarj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ff2a5f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-ff2a5f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-ff2a5f?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-ff2a5f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<br/>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/RESUME-DRIVE-ff2a5f?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-ff2a5f?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff2a5f&style=flat-square&label=PROFILE+VIEWS" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 🔴 About Me
-
-> **Driven by curiosity. Building for impact. Coding the future.**
+<h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-4085816-3385481.png" width="400" alt="Coding GIF / Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
-
-Hey! I'm **Md. Injamamul Hoq Tamim**, a passionate Computer Science Engineering student & developer.  
-I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-emerald?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science-ff2a5f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-0d1117?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
-* 💬 **Let's Discuss:** Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.
-* ⚡ **Philosophy:** *"I love turning random late-night thoughts into fully deployed production software!"*
+<p align="center">
+  Hey! I'm <b>MD. INJAMAMUL HOQ TAMIM</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
+  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+</p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      🔭 <b>Flagship Project</b><br/><br/>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT"><b>OpenCore Monitor</b></a><br/>
-      <sub>Dairy IoT & Anomaly Detection</sub>
-    </td>
-    <td align="center" width="50%">
-      🌱 <b>Active Deep Dives</b><br/><br/>
-      <b>DSA & Spring Boot</b><br/>
-      <sub>React Ecosystem & System Design</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      📱 <b>Tech Content</b><br/><br/>
-      <a href="#"><b>@your_handle</b></a><br/>
-      <sub>Coding Guides & Insights</sub>
-    </td>
-    <td align="center" width="50%">
-      🤝 <b>Collaboration</b><br/><br/>
-      <b>AI, Web & IoT</b><br/>
-      <sub>Open to exciting new projects</sub>
-    </td>
-  </tr>
+<p align="center">
+  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
+  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
+</p>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔭 Flagship Project</h4>
+  <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT & Anomaly Detection</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>📱 Tech Creator</h4>
+  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🔴 Featured Project Spotlight
+<h2 align="center">🔴 Featured Project Spotlight</h2>
 
-<div align="center">
-
-### 🔬 OpenCore Mastitis Monitor
-
-*A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.*
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-VISIT_PLATFORM-ff2a5f?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT"><img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_PROJECTS-0d1117?style=for-the-badge&logo=github" /></a>
-</p>
-
-</div>
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🔬 OpenCore Mastitis Monitor</h3>
+  <p><i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i></p>
+  <br />
+  <p>
+    <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 LeetCode Problem Solving
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
-  <i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i>
+  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
 </p>
-
-<div align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE?theme=dark" alt="LeetCode Stats" />
-</div>
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-VISIT_PROFILE-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<div align="center">
-
-### Core Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&perline=7" />
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  </a>
 </p>
 
-### Frontend & Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&perline=6" />
+<p align="center"><b>Frontend & Mobile Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
+  </a>
 </p>
 
-### Backend, Cloud & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&perline=7" />
+<p align="center"><b>Backend, Cloud & Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+  </a>
 </p>
 
-### Tools, Frameworks & OS
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,figma,arduino&perline=6" />
+<p align="center"><b>AI, Data Science, Hardware & DevOps</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+  </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/PANDAS-0d1117?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/SCIKIT_LEARN-ff2a5f?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/SEABORN-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SELENIUM-ff2a5f?style=for-the-badge&logo=selenium" />
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
 </p>
-
-</div>
 
 ---
 
-## 📊 GitHub Analytics & Activity
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&border_color=ff2a5f&title_color=ff2a5f" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false&border_color=ff2a5f&title_color=ff2a5f" alt="Top Languages" width="48%" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&border=ff2a5f&background=0b0d17&fire=ff2a5f&ring=ff2a5f&currStreakLabel=ff2a5f" alt="GitHub Streak" width="97%" />
-
-</div>
-
-<br/>
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│  "Code is the modern canvas where logic and art collide — sculpting ideas into reality."  │
-│                                                               — The Art of Programming   │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&
