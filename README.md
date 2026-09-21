@@ -1,116 +1,168 @@
 <div align="center">
 
-# Md. Injamamul Hoq Tamim
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=220&section=header&text=YOUR%20NAME&fontSize=42&fontColor=ff2a5f&animation=twinkling&fontAlignY=40&subtext=COMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20AI%20DEVELOPER&subtextBg=false&subfontSize=16&subtextAlignY=65" width="100%" />
 
-<p><strong>Full-Stack Web Developer • CSE Graduate • Cybersecurity Research Enthusiast</strong></p>
+# Hi there! I'm Injamamul Hoq 👋
 
-<a href="https://github.com/injamamulhoqtamim-bit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;CSE+Graduate+%7C+Southeast+University;Cybersecurity+%26+Networking+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- Badges / Links -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-red?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/RESUME-DRIVE-red?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-red?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<p>
-  <a href="https://www.linkedin.com/in/injamamul-hoq-tamim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/injamamulhoqtamim-bit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=red&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🔴 About Me
 
-I am a Computer Science & Engineering graduate interested in modern web development and cybersecurity research. I learned full-stack web development through Programming Hero and have built web projects using modern frontend and backend technologies. I am also interested in cybersecurity, networking, research, and continuously improving my technical skills.
-
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering, Southeast University
-- 🏢 **Department:** Computer Science & Engineering
-- 📍 **Location:** Dhaka, Bangladesh
-- 💻 **Focus Areas:** Full-Stack Web Development & Cybersecurity Research
-- 🌐 **Web Engineering:** Building web projects using modern frontend and backend technologies
-- 🔒 **Security & Networking:** Interested in cybersecurity, networking, and research
-- 🌱 **Continuous Learning:** Dedicated to continuously improving my technical skills
-
----
-
-## 🎯 Career Goal
-
-> "To build a professional career in full-stack web development and cybersecurity while continuously improving my software engineering, networking, and security research skills."
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Authentication-4B5563?style=for-the-badge" alt="Authentication" />
-  <img src="https://img.shields.io/badge/RBAC-1E293B?style=for-the-badge" alt="Role-Based Access Control" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### 🔧 Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-</p>
-
----
-
-## 🚀 Projects
-
-Projects will be featured here as they are added to the repository.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/injamamulhoqtamim-bit">
-    <img src="https://streak-stats.demolab.com/?user=injamamulhoqtamim-bit&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 🤝 Connect With Me
+> **Driven by curiosity. Building for impact. Coding the future.**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/injamamul-hoq-tamim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/injamamulhoqtamim-bit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-4085816-3385481.png" width="400" alt="Coding GIF / Animation"/>
 </p>
+
+Hey! I'm **YOUR NAME**, a passionate Computer Science Engineering student & developer.  
+I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-emerald?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-black?style=for-the-badge" />
+</p>
+
+* 💬 **Let's Discuss:** Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.
+* ⚡ **Philosophy:** *"I love turning random late-night thoughts into fully deployed production software!"*
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      🔭 <b>Flagship Project</b><br/><br/>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT"><b>OpenCore Monitor</b></a><br/>
+      <sub>Dairy IoT & Anomaly Detection</sub>
+    </td>
+    <td align="center" width="50%">
+      🌱 <b>Active Deep Dives</b><br/><br/>
+      <b>DSA & Spring Boot</b><br/>
+      <sub>React Ecosystem & System Design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      📱 <b>Tech Content</b><br/><br/>
+      <a href="#"><b>@your_handle</b></a><br/>
+      <sub>Coding Guides & Insights</sub>
+    </td>
+    <td align="center" width="50%">
+      🤝 <b>Collaboration</b><br/><br/>
+      <b>AI, Web & IoT</b><br/>
+      <sub>Open to exciting new projects</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔴 Featured Project Spotlight
+
+<div align="center">
+
+### 🔬 OpenCore Mastitis Monitor
+
+*A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.*
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-VISIT_PLATFORM-red?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT"><img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_PROJECTS-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+</div>
+
+---
+
+## 🧩 LeetCode Problem Solving
+
+<p align="center">
+  <i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i>
+</p>
+
+<div align="center">
+  <img src="https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE?theme=dark" alt="LeetCode Stats" />
+</div>
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-VISIT_PROFILE-orange?style=for-the-badge&logo=leetcode" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Core Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&perline=7" />
+</p>
+
+### Frontend & Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&perline=6" />
+</p>
+
+### Backend, Cloud & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&perline=7" />
+</p>
+
+### Tools, Frameworks & OS
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,figma,arduino&perline=6" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PANDAS-black?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-red?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/SEABORN-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SELENIUM-red?style=for-the-badge&logo=selenium" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&border_color=ff2a5f&title_color=ff2a5f" alt="GitHub Stats" width="48%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false&border_color=ff2a5f&title_color=ff2a5f" alt="Top Languages" width="48%" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&border=ff2a5f&background=0b0d17&fire=ff2a5f&ring=ff2a5f&currStreakLabel=ff2a5f" alt="GitHub Streak" width="97%" />
+
+</div>
+
+<br/>
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│  "Code is the modern canvas where logic and art collide — sculpting ideas into reality."  │
+│                                                               — The Art of Programming   │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
