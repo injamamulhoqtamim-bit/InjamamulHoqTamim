@@ -5,7 +5,7 @@
 <p><strong>Full-Stack Web Developer • CSE Graduate • Cybersecurity Research Enthusiast</strong></p>
 
 <a href="https://github.com/injamamulhoqtamim-bit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;CSE+Graduate+%7C+Southeast+University;Cybersecurity+%26+Networking+Enthusiast;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;CSE+Graduate+%7C+Southeast+University;Cybersecurity+%26+Networking+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p>
@@ -30,9 +30,9 @@ I am a Computer Science & Engineering graduate interested in modern web developm
 - 🏢 **Department:** Computer Science & Engineering
 - 📍 **Location:** Dhaka, Bangladesh
 - 💻 **Focus Areas:** Full-Stack Web Development & Cybersecurity Research
-- 🌐 **Web Engineering:** Building end-to-end web applications with modern frontend and backend technologies
-- 🔒 **Security & Networking:** Actively studying network infrastructure, Cisco Packet Tracer simulations, and applied security concepts
-- 🌱 **Continuous Learning:** Committed to refining software engineering methodologies and expanding technical research depth
+- 🌐 **Web Engineering:** Building web projects using modern frontend and backend technologies
+- 🔒 **Security & Networking:** Interested in cybersecurity, networking, and research
+- 🌱 **Continuous Learning:** Dedicated to continuously improving my technical skills
 
 ---
 
