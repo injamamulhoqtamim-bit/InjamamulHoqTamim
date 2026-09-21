@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=220&section=header&text=YOUR%20NAME&fontSize=42&fontColor=ff2a5f&animation=twinkling&fontAlignY=40&subtext=COMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20AI%20DEVELOPER&subtextBg=false&subfontSize=16&subtextAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=220&section=header&text=MD.Injamamul%20Hoq&fontSize=42&fontColor=ff2a5f&animation=twinkling&fontAlignY=40&subtext=COMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20AI%20DEVELOPER&subtextBg=false&subfontSize=16&subtextAlignY=65" width="100%" />
 
 # Hi there! I'm Injamamul Hoq 👋
 
