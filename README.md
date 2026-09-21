@@ -1,23 +1,28 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=220&section=header&text=MD.Injamamul%20Hoq&fontSize=42&fontColor=ff2a5f&animation=twinkling&fontAlignY=40&subtext=COMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20AI%20DEVELOPER&subtextBg=false&subfontSize=16&subtextAlignY=65" width="100%" />
-
-# Hi there! I'm Injamamul Hoq 👋
-
-<!-- Badges / Links -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-red?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br/>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/RESUME-DRIVE-red?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-red?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- Header Banner Image (Dark Red & Neon Cyberpunk Style) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0205&height=250&section=header&text=MD.%20INJAMAMUL%20HOQ%20TAMIM&fontSize=38&fontColor=ffffff&fontAlignY=45&subtext=COMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20DEVELOPER&subtextBg=false&subfontSize=15&subfontColor=ff2a5f&subtextAlignY=68&desc=%3C/%3E%20TURNING%20RANDOM%20IDEAS%20INTO%20PRODUCTION%20CODE&descFontSize=12&descFontColor=a0a0a0&descAlignY=82" width="100%" alt="Md. Injamamul Hoq Tamim Header Banner" />
 
 <br/><br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=red&style=flat-square&label=PROFILE+VIEWS" />
+<!-- Glowing Red Subtitle -->
+# <font color="#ff4d4d">Computer Science Engineer & Developer 🎓</font>
+
+<br/>
+
+<!-- Social & Profile Link Badges -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-e60023?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-e60023?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-e60023?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-e60023?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/RESUME-DRIVE-e60023?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=e60023&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
