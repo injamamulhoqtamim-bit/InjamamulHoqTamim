@@ -1,28 +1,20 @@
 <div align="center">
 
-<!-- Header Banner Image (Dark Red & Neon Cyberpunk Style) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0205&height=250&section=header&text=MD.%20INJAMAMUL%20HOQ%20TAMIM&fontSize=38&fontColor=ffffff&fontAlignY=45&subtext=COMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20DEVELOPER&subtextBg=false&subfontSize=15&subfontColor=ff2a5f&subtextAlignY=68&desc=%3C/%3E%20TURNING%20RANDOM%20IDEAS%20INTO%20PRODUCTION%20CODE&descFontSize=12&descFontColor=a0a0a0&descAlignY=82" width="100%" alt="Md. Injamamul Hoq Tamim Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=230&section=header&text=MD.%20INJAMAMUL%20HOQ%20TAMIM&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=48&stroke=ff2a5f&strokeWidth=2&subtext=%E2%80%A2%20BUILDING%20REAL-WORLD%20TECH%20%E2%80%A2%0ACOMPUTER%20SCIENCE%20ENGINEER%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20AI%20%26%20IOT%20DEVELOPER%0A%3C%2F%3E%20TURNING%20RANDOM%20IDEAS%20INTO%20PRODUCTION%20CODE&subtextBg=false&subfontSize=13&subtextAlignY=75&subfontColor=ff2a5f" width="100%" />
+
+# Hi there! I'm Md. Injamamul Hoq Tamim 👋
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ff2a5f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-ff2a5f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-ff2a5f?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-ff2a5f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<br/>
+<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/RESUME-DRIVE-ff2a5f?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-ff2a5f?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 
 <br/><br/>
 
-<!-- Glowing Red Subtitle -->
-# <font color="#ff4d4d">Computer Science Engineer & Developer 🎓</font>
-
-<br/>
-
-<!-- Social & Profile Link Badges -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-e60023?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-e60023?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-e60023?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-e60023?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br/>
-<a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/RESUME-DRIVE-e60023?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=e60023&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff2a5f&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -36,13 +28,13 @@
   <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-laptop-4085816-3385481.png" width="400" alt="Coding GIF / Animation"/>
 </p>
 
-Hey! I'm **YOUR NAME**, a passionate Computer Science Engineering student & developer.  
+Hey! I'm **Md. Injamamul Hoq Tamim**, a passionate Computer Science Engineering student & developer.  
 I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-emerald?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science-ff2a5f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-0d1117?style=for-the-badge" />
 </p>
 
 * 💬 **Let's Discuss:** Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.
@@ -88,8 +80,8 @@ I specialize in architecting scalable full-stack web platforms, integrating embe
 *A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.*
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-VISIT_PLATFORM-red?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT"><img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_PROJECTS-black?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LIVE_DEMO-VISIT_PLATFORM-ff2a5f?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT"><img src="https://img.shields.io/badge/SOURCE_CODE-VIEW_PROJECTS-0d1117?style=for-the-badge&logo=github" /></a>
 </p>
 
 </div>
@@ -137,10 +129,10 @@ I specialize in architecting scalable full-stack web platforms, integrating embe
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PANDAS-black?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/SCIKIT_LEARN-red?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/SEABORN-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SELENIUM-red?style=for-the-badge&logo=selenium" />
+  <img src="https://img.shields.io/badge/PANDAS-0d1117?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/SCIKIT_LEARN-ff2a5f?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/SEABORN-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SELENIUM-ff2a5f?style=for-the-badge&logo=selenium" />
 </p>
 
 </div>
@@ -151,15 +143,12 @@ I specialize in architecting scalable full-stack web platforms, integrating embe
 
 <div align="center">
 
-  <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&border_color=ff2a5f&title_color=ff2a5f" alt="GitHub Stats" width="48%" />
   
-  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false&border_color=ff2a5f&title_color=ff2a5f" alt="Top Languages" width="48%" />
 
   <br/><br/>
 
-  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&border=ff2a5f&background=0b0d17&fire=ff2a5f&ring=ff2a5f&currStreakLabel=ff2a5f" alt="GitHub Streak" width="97%" />
 
 </div>
