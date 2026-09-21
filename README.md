@@ -1,209 +1,247 @@
 <p align="center">
-  <svg width="100%" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 800px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-    <defs>
-      <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#050B14"/>
-        <stop offset="50%" stop-color="#0A1628"/>
-        <stop offset="100%" stop-color="#050B14"/>
-      </linearGradient>
-      <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#38BDF8"/>
-        <stop offset="50%" stop-color="#818CF8"/>
-        <stop offset="100%" stop-color="#C084FC"/>
-      </linearGradient>
-      <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-        <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.8" opacity="0.4"/>
-      </pattern>
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="15" result="blur" />
-        <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-      </filter>
-    </defs>
-
-    <rect width="800" height="220" rx="16" fill="url(#bg-grad)"/>
-    <rect width="800" height="220" rx="16" fill="url(#grid)"/>
-
-    <circle cx="100" cy="40" r="120" fill="#2563EB" opacity="0.12" filter="url(#glow)"/>
-    <circle cx="700" cy="180" r="100" fill="#38BDF8" opacity="0.15" filter="url(#glow)"/>
-    <rect x="40" y="20" width="720" height="180" rx="12" fill="none" stroke="url(#text-grad)" stroke-width="1" opacity="0.2"/>
-
-    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="900" fill="url(#text-grad)" letter-spacing="4">
-      MD. INJAMAMUL HOQ TAMIM
-    </text>
-
-    <line x1="250" y1="130" x2="550" y2="130" stroke="url(#text-grad)" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
-
-    <text x="50%" y="165" dominant-baseline="middle" text-anchor="middle" font-family="'Fira Code', monospace, sans-serif" font-size="14" font-weight="500" fill="#94A3B8" letter-spacing="2">
-      FULL-STACK DEVELOPER  •  CYBERSECURITY ENTHUSIAST
-    </text>
-  </svg>
+  <img src="assets/header.svg" width="100%" alt="MD. INJAMAMUL HOQ TAMIM Header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/injamamulhoqtamim-bit">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Md.%20Injamamul%20Hoq%20Tamim%20%F0%9F%91%8B;Computer%20Science%20%26%20Engineering%20Graduate%20%F0%9F%8E%93;Full-Stack%20Web%20Developer%20%F0%9F%92%BB;Cybersecurity%20%26%20Networking%20Enthusiast%20%F0%9F%94%90;Building%20Modern%20Web%20Experiences%20%26%20Learning%20Continuously%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+  <a href="https://github.com/InjamamulHoqTamim">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20MD.%20INJAMAMUL%20HOQ%20TAMIM%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://linkedin.com/in/injamamul-hoq-tamim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/injamamulhoqtamim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/injamamulhoqtamim-bit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Visit-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
+  <a href="https://instagram.com/injamamulhoqtamim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/injamamulhoqtamim" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:injamamulhoqtamim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/InjamamulHoqTamim" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0a0a" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=injamamulhoqtamim&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
+---
 
-<h2 align="center">🔵 About Me</h2>
+<h2 align="center">🔴 About Me</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Building+with+curiosity.+Learning+with+purpose.+Growing+through+technology." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
+
 <p align="center">
-  Hey! I'm <b>Md. Injamamul Hoq Tamim</b>, a <b>Computer Science &amp; Engineering graduate</b> from <b>Southeast University</b> based in Dhaka, Bangladesh.<br />
-  I am interested in modern <b>full-stack web development</b>, <b>cybersecurity</b>, <b>networking</b>, and <b>security research</b>. I learned full-stack web development through Programming Hero and enjoy building web projects using modern frontend and backend technologies.
+  Hey! I'm <b>MD. INJAMAMUL HOQ TAMIM</b>, a passionate <b>Computer Science Engineering student & developer</b> based in Bangladesh.<br />
+  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Learning_%26_Building-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.Sc._Computer_Science_%26_Engineering-2563EB?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Cybersecurity-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
 </p>
+
 <p align="center">
-  💬 <b>Interested In:</b> Full-Stack Web Development, Cybersecurity, Networking &amp; Research.<br />
-  ⚡ <b>Goal:</b> <i>Build useful technology while continuously improving my technical and research skills.</i>
+  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
+  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
 </p>
+
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🎓 Education</h4>
-  <p><b>Southeast University</b><br /><sub>B.Sc. in Computer Science &amp; Engineering</sub></p>
+  <h4>🔭 Flagship Project</h4>
+  <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT & Anomaly Detection</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>💻 Primary Focus</h4>
-  <p><b>Full-Stack Web Development</b><br /><sub>Modern Frontend &amp; Backend Technologies</sub></p>
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🔐 Security Interest</h4>
-  <p><b>Cybersecurity &amp; Networking</b><br /><sub>Security Research &amp; Technical Learning</sub></p>
+  <h4>📱 Tech Creator</h4>
+  <p><a href="https://www.instagram.com/injamamulhoqtamim/" target="_blank"><b>@injamamulhoqtamim</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🌱 Continuous Learning</h4>
-  <p><b>Technology &amp; Research</b><br /><sub>Continuously Improving Technical Skills</sub></p>
+  <h4>🤝 Collaboration</h4>
+  <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
 </td>
 </tr>
 </table>
 
+---
 
-<h2 align="center">🔵 Career Goal</h2>
+<h2 align="center">🔴 Featured Project Spotlight</h2>
+
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🔬 OpenCore Mastitis Monitor</h3>
+  <p><i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i></p>
+  <br />
+  <p>
+    <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/InjamamulHoqTamim" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
+
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
+
 <p align="center">
-  <i>
-    "To build a professional career in full-stack web development and cybersecurity while continuously improving my software engineering, networking, and security research skills."
-  </i>
+  <a href="https://leetcode.com/injamamulhoqtamim/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/injamamulhoqtamim?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/injamamulhoqtamim/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/injamamulhoqtamim/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+  </a>
+</p>
 
-<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
+---
+
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
 <p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" width="100%" style="max-width: 300px;" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
   </a>
 </p>
-<p align="center"><b>Frontend Development</b></p>
+
+<p align="center"><b>Frontend & Mobile Development</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" width="100%" style="max-width: 360px;" alt="Frontend Technologies" />
+    <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
   </a>
-  <br />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
 </p>
-<p align="center"><b>Backend &amp; Authentication</b></p>
+
+<p align="center"><b>Backend, Cloud & Databases</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" width="100%" style="max-width: 300px;" alt="Backend Technologies" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
   </a>
-  <br />
-  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge" alt="REST APIs" />
+</p>
+
+<p align="center"><b>AI, Data Science, Hardware & DevOps</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
   &nbsp;
-  <img src="https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Authentication-475569?style=for-the-badge" alt="Authentication" />
+  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
   &nbsp;
-  <img src="https://img.shields.io/badge/RBAC-1E293B?style=for-the-badge" alt="Role Based Access Control" />
-</p>
-<p align="center"><b>Database</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="100%" style="max-width: 100px;" alt="MongoDB" />
-  </a>
-</p>
-<p align="center"><b>Tools &amp; Technologies</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,postman&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and Technologies" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
 </p>
 
+---
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
+
 <p align="center">
-  <i>Projects will be featured here as they are added and documented.</i>
-</p>
-
-
-<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=injamamulhoqtamim-bit&show_icons=true&bg_color=0a0a0a&title_color=38BDF8&text_color=f3f4f6&icon_color=38BDF8&border_color=38BDF8&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=injamamulhoqtamim&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=injamamulhoqtamim-bit&layout=compact&bg_color=0a0a0a&title_color=38BDF8&text_color=f3f4f6&border_color=38BDF8&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=injamamulhoqtamim-bit&theme=tokyonight&hide_border=false&border=38BDF8&background=0a0a0a&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=injamamulhoqtamim&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=injamamulhoqtamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+</p>
+
+---
 
 <h2 align="center">⚡ Contribution Journey</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
+---
 
 <h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
-<p align="center">
-  <i>Interested in web development, cybersecurity, networking, or technical research? Feel free to connect.</i>
-</p>
+
+<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
 <table border="0" align="center">
 <tr>
-<td align="center" width="260" style="padding: 18px;">
-  <a href="https://www.linkedin.com/in/injamamul-hoq-tamim/" target="_blank">
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/injamamulhoqtamim/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   <br />
   <sub><b>Professional Network</b></sub>
 </td>
-<td align="center" width="260" style="padding: 18px;">
-  <a href="https://github.com/injamamulhoqtamim-bit" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.instagram.com/injamamulhoqtamim/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
     <br /><br />
-    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-111111?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0a0a0a" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   <br />
-  <sub><b>Projects &amp; Development</b></sub>
+  <sub><b>Articles &amp; Tech Guides</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:injamamulhoqtamim@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
