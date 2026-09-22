@@ -1,3 +1,4 @@
+```markdown
 <p align="center">
   <strong>
     <span style="font-size: 38px;">MD. INJAMAMUL HOQ TAMIM</span>
@@ -125,14 +126,11 @@
       <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub Projects" />
     </a>
 
-```
-&nbsp;&nbsp;
+    &nbsp;&nbsp;
 
-<a href="https://github.com/InjamamulHoqTamim" target="_blank">
-  <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-</a>
-```
-
+    <a href="https://github.com/InjamamulHoqTamim" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
   </p>
 </td>
 </tr>
@@ -186,7 +184,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
 
-  
+  &nbsp;&nbsp;
 
   <a href="https://leetcode.com/injamamulhoqtamim/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
@@ -289,56 +287,165 @@
 
 <p align="center">
   <i>
-    A visual overview of my GitHub activity, repositories,
-    languages and contribution journey.
+    Live GitHub profile analytics showing my public repositories,
+    programming languages, contribution activity, streak,
+    achievements and development journey.
   </i>
 </p>
 
 <br />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=injamamulhoqtamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
-    width="100%"
-    style="max-width: 480px;"
-    alt="GitHub Statistics"
-  />
-</p>
+<!-- GitHub Profile Overview -->
+
+<h3 align="center">👤 GitHub Profile Overview</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=injamamulhoqtamim&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=10"
-    width="100%"
-    style="max-width: 400px;"
-    alt="Top Programming Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=injamamulhoqtamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
+    src="https://github-readme-stats-fast.vercel.app/api?username=InjamamulHoqTamim&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
     width="100%"
     style="max-width: 520px;"
+    alt="MD. INJAMAMUL HOQ TAMIM GitHub Statistics"
+  />
+</p>
+
+<!-- Top Languages -->
+
+<h3 align="center">💻 Most Used Programming Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=InjamamulHoqTamim&layout=compact&langs_count=10&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=10"
+    width="100%"
+    style="max-width: 460px;"
+    alt="MD. INJAMAMUL HOQ TAMIM Top Programming Languages"
+  />
+</p>
+
+<!-- Detailed Language Distribution -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=InjamamulHoqTamim&layout=donut&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444"
+    width="100%"
+    style="max-width: 460px;"
+    alt="Programming Language Distribution"
+  />
+</p>
+
+<!-- Contribution Streak -->
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=InjamamulHoqTamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
+    width="100%"
+    style="max-width: 560px;"
     alt="GitHub Contribution Streak"
   />
 </p>
 
+<!-- GitHub Trophies -->
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=injamamulhoqtamim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=InjamamulHoqTamim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
     width="100%"
-    style="max-width: 800px;"
+    style="max-width: 850px;"
     alt="GitHub Profile Trophies"
   />
 </p>
 
+<!-- Activity Graph -->
+
+<h3 align="center">📈 Contribution Activity</h3>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=injamamulhoqtamim&bg_color=0a0a0a&color=f3f4f6&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=InjamamulHoqTamim&bg_color=0a0a0a&color=f3f4f6&line=ef4444&point=ffffff&area=true&area_color=7f1d1d&hide_border=false&border_color=ef4444&radius=10"
     width="100%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Contribution Activity Graph"
   />
 </p>
+
+<!-- Contribution Calendar -->
+
+<h3 align="center">🗓️ Contribution Calendar</h3>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/ef4444/InjamamulHoqTamim"
+    width="100%"
+    style="max-width: 900px;"
+    alt="GitHub Contribution Calendar"
+  />
+</p>
+
+<!-- GitHub Metrics -->
+
+<h3 align="center">📌 GitHub Development Metrics</h3>
+
+<table width="100%" border="0" align="center">
+<tr>
+
+<td width="33%" align="center" style="padding: 15px;">
+  <h4>📦 Repositories</h4>
+  <p>
+    <b>Public Projects</b><br />
+    <sub>Automatically updated from GitHub</sub>
+  </p>
+</td>
+
+<td width="33%" align="center" style="padding: 15px;">
+  <h4>⭐ Community</h4>
+  <p>
+    <b>Stars &amp; Followers</b><br />
+    <sub>Live GitHub profile activity</sub>
+  </p>
+</td>
+
+<td width="33%" align="center" style="padding: 15px;">
+  <h4>💡 Contributions</h4>
+  <p>
+    <b>Commits &amp; Activity</b><br />
+    <sub>Contribution graph based</sub>
+  </p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" style="padding: 15px;">
+  <h4>💻 Languages</h4>
+  <p>
+    <b>Code Distribution</b><br />
+    <sub>Based on repository languages</sub>
+  </p>
+</td>
+
+<td width="33%" align="center" style="padding: 15px;">
+  <h4>🔥 Streak</h4>
+  <p>
+    <b>Contribution Consistency</b><br />
+    <sub>Automatically refreshed</sub>
+  </p>
+</td>
+
+<td width="33%" align="center" style="padding: 15px;">
+  <h4>🏆 Achievements</h4>
+  <p>
+    <b>GitHub Trophies</b><br />
+    <sub>Profile achievements</sub>
+  </p>
+</td>
+
+</tr>
+</table>
+
+<!-- Quote -->
 
 <p align="center">
   <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
@@ -401,7 +508,7 @@
   <a href="mailto:injamamulhoqtamim@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Gmail" />
   </a>
   <br />
   <sub><b>Direct Collaboration</b></sub>
@@ -430,3 +537,4 @@
 <p align="center">
   <sub>© MD. INJAMAMUL HOQ TAMIM • Built with passion, curiosity &amp; code.</sub>
 </p>
+```
