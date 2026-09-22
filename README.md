@@ -48,16 +48,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Curious+Mind.+Clean+Code.+Secure+Systems." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
-<!-- Cybersecurity / Ethical Hacking Animation -->
-
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" style="max-width: 100%; border-radius: 12px;" alt="Cybersecurity coding animation" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Cybersecurity and coding animation" />
 </p>
 
 <p align="center">
   Hey! I'm <b>MD. INJAMAMUL HOQ TAMIM</b>, a <b>Computer Science &amp; Engineering graduate</b> from Bangladesh.<br />
   I'm a <b>Full-Stack Web Developer</b> with a strong interest in <b>Cybersecurity, Web Development, and Software Engineering</b>.<br />
-  I enjoy building modern web applications, exploring secure system design, and turning practical ideas into working software.
+  I enjoy building modern web applications, exploring secure system design, conducting cybersecurity research, and turning practical ideas into working software.
 </p>
 
 <p align="center">
@@ -84,16 +82,19 @@
   <h4>💼 Current Experience</h4>
   <p><b>Teletalk Bangladesh Ltd.</b><br /><sub>IT &amp; Billing Department — Internship</sub></p>
 </td>
+
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🎓 Education</h4>
   <p><b>B.Sc. in CSE</b><br /><sub>Southeast University</sub></p>
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🔐 Research</h4>
   <p><b>Cybersecurity Research</b><br /><sub>Administrative Interface Exposure &amp; Governance</sub></p>
 </td>
+
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
   <p><b>Web &amp; Cybersecurity</b><br /><sub>Open to meaningful projects &amp; collaboration</sub></p>
@@ -109,16 +110,29 @@
 <tr>
 <td align="center" style="padding: 22px;">
   <h3>🚀 Full-Stack Web Development</h3>
-  <p><i>Building modern, responsive and scalable web applications using contemporary frontend and backend technologies.</i></p>
+
+  <p>
+    <i>
+      Building modern, responsive and scalable web applications using
+      contemporary frontend and backend technologies.
+    </i>
+  </p>
+
   <br />
+
   <p>
     <a href="https://github.com/InjamamulHoqTamim" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub Projects" />
     </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/InjamamulHoqTamim" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
+
+```
+&nbsp;&nbsp;
+
+<a href="https://github.com/InjamamulHoqTamim" target="_blank">
+  <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+</a>
+```
+
   </p>
 </td>
 </tr>
@@ -129,13 +143,19 @@
 <h2 align="center">🔬 Cybersecurity Research</h2>
 
 <p align="center">
-  <i>Exploring real-world cybersecurity problems through empirical research, observation, analysis and responsible security practices.</i>
+  <i>
+    Exploring real-world cybersecurity problems through empirical research,
+    observation, analysis and responsible security practices.
+  </i>
 </p>
 
 <p align="center">
   <b>Research Focus:</b><br />
-  Administrative Interface Exposure Dynamics • Vulnerability Disclosure Program Governance •
-  Security Observation • Exposure Persistence • Remediation Analysis
+  Administrative Interface Exposure Dynamics •
+  Vulnerability Disclosure Program Governance •
+  Security Observation •
+  Exposure Persistence •
+  Remediation Analysis
 </p>
 
 <p align="center">
@@ -149,7 +169,10 @@
 <h2 align="center">🧩 LeetCode Problem Solving</h2>
 
 <p align="center">
-  <i>Live real-time tracker of coding challenges &amp; algorithmic problem-solving milestones.</i>
+  <i>
+    Live real-time tracker of coding challenges &amp;
+    algorithmic problem-solving milestones.
+  </i>
 </p>
 
 <p align="center">
@@ -162,7 +185,9 @@
   <a href="https://leetcode.com/injamamulhoqtamim/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
-  &nbsp;&nbsp;
+
+  
+
   <a href="https://leetcode.com/injamamulhoqtamim/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
@@ -173,6 +198,7 @@
 <h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
 
 <p align="center"><b>Core Programming &amp; Web Technologies</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Programming Languages" />
@@ -180,6 +206,7 @@
 </p>
 
 <p align="center"><b>Frontend Development</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 320px;" alt="Frontend Technologies" />
@@ -187,6 +214,7 @@
 </p>
 
 <p align="center"><b>Backend &amp; Databases</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" width="100%" style="max-width: 360px;" alt="Backend and Databases" />
@@ -194,6 +222,7 @@
 </p>
 
 <p align="center"><b>Cybersecurity, Development Tools &amp; Design</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,github,postman,figma&theme=dark" width="100%" style="max-width: 360px;" alt="Tools and Design" />
@@ -215,26 +244,43 @@
 <h2 align="center">🎓 Training &amp; Learning</h2>
 
 <table width="100%" border="0" align="center">
+
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>💻 Full-Stack Web Development</h4>
-  <p><b>Programming Hero</b><br /><sub>Full-Stack Web Development Program</sub></p>
+  <p>
+    <b>Programming Hero</b><br />
+    <sub>Full-Stack Web Development Program</sub>
+  </p>
 </td>
+
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🎨 UI/UX Design</h4>
-  <p><b>Southeast University</b><br /><sub>UI/UX Boot Camp</sub></p>
+  <p>
+    <b>Southeast University</b><br />
+    <sub>UI/UX Boot Camp</sub>
+  </p>
 </td>
 </tr>
+
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>📢 Digital Marketing</h4>
-  <p><b>UY Lab</b><br /><sub>Digital Marketing Training</sub></p>
+  <p>
+    <b>UY Lab</b><br />
+    <sub>Digital Marketing Training</sub>
+  </p>
 </td>
+
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🔐 Cybersecurity</h4>
-  <p><b>Ostad Institute</b><br /><sub>AI Driven Cyber Security &amp; Ethical Hacking Career Track</sub></p>
+  <p>
+    <b>Ostad Institute</b><br />
+    <sub>AI Driven Cyber Security &amp; Ethical Hacking Career Track</sub>
+  </p>
 </td>
 </tr>
+
 </table>
 
 ---
@@ -242,13 +288,56 @@
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=injamamulhoqtamim&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=injamamulhoqtamim&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <i>
+    A visual overview of my GitHub activity, repositories,
+    languages and contribution journey.
+  </i>
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=injamamulhoqtamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
+    width="100%"
+    style="max-width: 480px;"
+    alt="GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=injamamulhoqtamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=injamamulhoqtamim&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=10"
+    width="100%"
+    style="max-width: 400px;"
+    alt="Top Programming Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=injamamulhoqtamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
+    width="100%"
+    style="max-width: 520px;"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=injamamulhoqtamim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
+    width="100%"
+    style="max-width: 800px;"
+    alt="GitHub Profile Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=injamamulhoqtamim&bg_color=0a0a0a&color=f3f4f6&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <p align="center">
@@ -260,7 +349,11 @@
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
 
 ---
@@ -268,12 +361,23 @@
 <h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
 
 <p align="center">
-  <i>Whether you want to discuss web development, cybersecurity research, software projects, or open-source collaboration — feel free to connect!</i>
+  <i>
+    Interested in web development, cybersecurity research,
+    software projects or open-source collaboration?
+  </i>
 </p>
 
+<p align="center">
+  <b>Let's build something meaningful together.</b> 🚀
+</p>
+
+<br />
+
 <table border="0" align="center">
+
 <tr>
-<td align="center" width="220" style="padding: 16px;">
+
+<td align="center" width="220" style="padding: 18px;">
   <a href="https://www.linkedin.com/in/injamamulhoqtamim/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
     <br /><br />
@@ -283,7 +387,7 @@
   <sub><b>Professional Network</b></sub>
 </td>
 
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="220" style="padding: 18px;">
   <a href="https://www.instagram.com/injamamulhoqtamim/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
     <br /><br />
@@ -293,7 +397,7 @@
   <sub><b>Tech &amp; Personal Updates</b></sub>
 </td>
 
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="220" style="padding: 18px;">
   <a href="mailto:injamamulhoqtamim@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
     <br /><br />
@@ -302,9 +406,27 @@
   <br />
   <sub><b>Direct Collaboration</b></sub>
 </td>
+
 </tr>
+
 </table>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_To-Collaboration-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Open to Collaboration" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Cybersecurity-111111?style=for-the-badge&labelColor=0a0a0a" alt="Focus Areas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based_In-Bangladesh-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Bangladesh" />
+</p>
+
+---
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
+
+<p align="center">
+  <sub>© MD. INJAMAMUL HOQ TAMIM • Built with passion, curiosity &amp; code.</sub>
 </p>
