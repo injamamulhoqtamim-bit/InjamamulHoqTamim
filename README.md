@@ -285,64 +285,238 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+```html
+<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 
 <p align="center">
   <i>
-    A visual overview of my GitHub activity, repositories,
-    languages and contribution journey.
+    A live visual overview of my GitHub activity, repositories,
+    programming languages, contributions and development journey.
   </i>
 </p>
 
 <br />
 
+<!-- Profile Overview -->
+
+<h3 align="center">👤 MD. INJAMAMUL HOQ TAMIM — GitHub Overview</h3>
+
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=injamamulhoqtamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
     width="100%"
-    style="max-width: 480px;"
-    alt="GitHub Statistics"
+    style="max-width: 500px;"
+    alt="MD. INJAMAMUL HOQ TAMIM GitHub Statistics"
   />
 </p>
+
+<p align="center">
+  <b>💻 Full-Stack Web Developer</b> &nbsp; • &nbsp;
+  <b>🎓 CSE Graduate</b> &nbsp; • &nbsp;
+  <b>🔐 Cybersecurity Research Enthusiast</b>
+</p>
+
+<p align="center">
+  <sub>
+    GitHub activity reflecting my journey in web development,
+    software engineering, cybersecurity and continuous learning.
+  </sub>
+</p>
+
+<br />
+
+<!-- Top Languages -->
+
+<h3 align="center">💻 Programming Language Distribution</h3>
 
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=injamamulhoqtamim&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=10"
     width="100%"
-    style="max-width: 400px;"
-    alt="Top Programming Languages"
+    style="max-width: 430px;"
+    alt="MD. INJAMAMUL HOQ TAMIM Top Programming Languages"
   />
 </p>
+
+<p align="center">
+  <sub>
+    Languages shown above are automatically generated from the code
+    available across my GitHub repositories.
+  </sub>
+</p>
+
+<p align="center">
+  <b>Primary Development Areas:</b><br />
+  HTML • CSS • JavaScript • React • Next.js • Tailwind CSS •
+  Node.js • Express.js • MongoDB
+</p>
+
+<br />
+
+<!-- Contribution Streak -->
+
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=injamamulhoqtamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
     width="100%"
-    style="max-width: 520px;"
-    alt="GitHub Contribution Streak"
+    style="max-width: 540px;"
+    alt="MD. INJAMAMUL HOQ TAMIM GitHub Contribution Streak"
   />
 </p>
+
+<p align="center">
+  <sub>
+    Tracking my consistency in coding, learning, projects,
+    research and open-source activity.
+  </sub>
+</p>
+
+<br />
+
+<!-- GitHub Achievements -->
+
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=injamamulhoqtamim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
     width="100%"
     style="max-width: 800px;"
-    alt="GitHub Profile Trophies"
+    alt="MD. INJAMAMUL HOQ TAMIM GitHub Profile Trophies"
   />
 </p>
+
+<p align="center">
+  <sub>
+    GitHub achievements and profile milestones generated automatically
+    from my GitHub account.
+  </sub>
+</p>
+
+<br />
+
+<!-- Activity Graph -->
+
+<h3 align="center">📈 GitHub Contribution Activity</h3>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=injamamulhoqtamim&bg_color=0a0a0a&color=f3f4f6&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444"
     width="100%"
-    alt="GitHub Activity Graph"
+    alt="MD. INJAMAMUL HOQ TAMIM GitHub Activity Graph"
   />
 </p>
 
 <p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+  <sub>
+    A visual representation of my GitHub contribution activity,
+    showing coding and repository activity over time.
+  </sub>
 </p>
+
+<br />
+
+<!-- Developer Profile -->
+
+<h3 align="center">🚀 My GitHub Development Focus</h3>
+
+<table width="100%" border="0" align="center">
+
+<tr>
+
+<td width="33%" align="center" style="padding: 16px;">
+  <h4>💻 Web Development</h4>
+  <p>
+    <sub>
+      Building responsive and modern web applications
+      using frontend and backend technologies.
+    </sub>
+  </p>
+</td>
+
+<td width="33%" align="center" style="padding: 16px;">
+  <h4>🔐 Cybersecurity</h4>
+  <p>
+    <sub>
+      Exploring web security, ethical hacking,
+      security fundamentals and cybersecurity research.
+    </sub>
+  </p>
+</td>
+
+<td width="33%" align="center" style="padding: 16px;">
+  <h4>📚 Continuous Learning</h4>
+  <p>
+    <sub>
+      Learning modern technologies, system design,
+      secure development and practical software engineering.
+    </sub>
+  </p>
+</td>
+
+</tr>
+
+</table>
+
+<br />
+
+<!-- GitHub Journey -->
+
+<h3 align="center">🧭 My GitHub Journey</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Full-Stack Development" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=EF4444&labelColor=0a0a0a" alt="Cybersecurity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-DC2626?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0a0a" alt="Software Engineering" />
+</p>
+
+<p align="center">
+  <i>
+    My GitHub profile represents an ongoing journey of
+    building, experimenting, researching and improving.
+  </i>
+</p>
+
+<br />
+
+<!-- GitHub Profile Links -->
+
+<p align="center">
+  <a href="https://github.com/injamamulhoqtamim" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-@InjamamulHoqTamim-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"
+      alt="GitHub Profile"
+    />
+  </a>
+
+  &nbsp;
+
+  <a href="https://github.com/injamamulhoqtamim?tab=repositories" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Repositories-Explore%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a"
+      alt="GitHub Repositories"
+    />
+  </a>
+</p>
+
+<br />
+
+<!-- Quote -->
+
+<p align="center">
+  <img
+    src="assets/quote.svg"
+    width="100%"
+    style="max-width: 720px;"
+    alt="Code and Art Quote"
+  />
+</p>
+```
+
 
 ---
 
