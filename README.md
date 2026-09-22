@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <strong>
     <span style="font-size: 38px;">MD. INJAMAMUL HOQ TAMIM</span>
@@ -15,23 +14,23 @@
   <a href="https://linkedin.com/in/injamamulhoqtamim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-  &nbsp;
+   
   <a href="https://instagram.com/injamamulhoqtamim" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
-  &nbsp;
+   
   <a href="https://leetcode.com/injamamulhoqtamim" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
   </a>
-  &nbsp;
-  <a href="mailto:injamamulhoqtamim@gmail.com">
+   
+  <a href="mailto:[injamamulhoqtamim@gmail.com](mailto:injamamulhoqtamim@gmail.com)">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
-  &nbsp;
+   
   <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
-  &nbsp;
+   
   <a href="https://github.com/InjamamulHoqTamim" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
   </a>
@@ -54,23 +53,23 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>MD. INJAMAMUL HOQ TAMIM</b>, a <b>Computer Science &amp; Engineering graduate</b> from Bangladesh.<br />
+  Hey! I'm <b>MD. INJAMAMUL HOQ TAMIM</b>, a <b>Computer Science & Engineering graduate</b> from Bangladesh.<br />
   I'm a <b>Full-Stack Web Developer</b> with a strong interest in <b>Cybersecurity, Web Development, and Software Engineering</b>.<br />
   I enjoy building modern web applications, exploring secure system design, conducting cybersecurity research, and turning practical ideas into working software.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square" alt="Status" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/Degree-CSE_Graduate-DC2626?style=flat-square" alt="Degree" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Cybersecurity-111111?style=flat-square" alt="Focus" />
 </p>
 
 <p align="center">
-  💻 <b>Development:</b> HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js &amp; MongoDB.<br />
-  🔐 <b>Cybersecurity:</b> Cybersecurity Research, Web Security, Ethical Hacking &amp; Security Fundamentals.<br />
-  📚 <b>Learning:</b> Full-Stack Web Development, Cybersecurity, System Design &amp; Modern Web Technologies.
+  💻 <b>Development:</b> HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js & MongoDB.<br />
+  🔐 <b>Cybersecurity:</b> Cybersecurity Research, Web Security, Ethical Hacking & Security Fundamentals.<br />
+  📚 <b>Learning:</b> Full-Stack Web Development, Cybersecurity, System Design & Modern Web Technologies.
 </p>
 
 <p align="center">
@@ -81,7 +80,7 @@
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>💼 Current Experience</h4>
-  <p><b>Teletalk Bangladesh Ltd.</b><br /><sub>IT &amp; Billing Department — Internship</sub></p>
+  <p><b>Teletalk Bangladesh Ltd.</b><br /><sub>IT & Billing Department — Internship</sub></p>
 </td>
 
 <td width="50%" align="center" style="padding: 14px;">
@@ -93,12 +92,12 @@
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🔐 Research</h4>
-  <p><b>Cybersecurity Research</b><br /><sub>Administrative Interface Exposure &amp; Governance</sub></p>
+  <p><b>Cybersecurity Research</b><br /><sub>Administrative Interface Exposure & Governance</sub></p>
 </td>
 
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
-  <p><b>Web &amp; Cybersecurity</b><br /><sub>Open to meaningful projects &amp; collaboration</sub></p>
+  <p><b>Web & Cybersecurity</b><br /><sub>Open to meaningful projects & collaboration</sub></p>
 </td>
 </tr>
 </table>
@@ -126,11 +125,14 @@
       <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub Projects" />
     </a>
 
-    &nbsp;&nbsp;
+```
+&nbsp;&nbsp;
 
-    <a href="https://github.com/InjamamulHoqTamim" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
+<a href="https://github.com/InjamamulHoqTamim" target="_blank">
+  <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+</a>
+```
+
   </p>
 </td>
 </tr>
@@ -158,7 +160,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Cybersecurity-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0a0a0a" alt="Cybersecurity Research" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/Focus-Web%20Security-111111?style=for-the-badge&logo=security&logoColor=EF4444&labelColor=0a0a0a" alt="Web Security" />
 </p>
 
@@ -168,7 +170,7 @@
 
 <p align="center">
   <i>
-    Live real-time tracker of coding challenges &amp;
+    Live real-time tracker of coding challenges &
     algorithmic problem-solving milestones.
   </i>
 </p>
@@ -184,7 +186,7 @@
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
 
-  &nbsp;&nbsp;
+  
 
   <a href="https://leetcode.com/injamamulhoqtamim/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
@@ -193,9 +195,9 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<p align="center"><b>Core Programming &amp; Web Technologies</b></p>
+<p align="center"><b>Core Programming & Web Technologies</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -211,7 +213,7 @@
   </a>
 </p>
 
-<p align="center"><b>Backend &amp; Databases</b></p>
+<p align="center"><b>Backend & Databases</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -219,7 +221,7 @@
   </a>
 </p>
 
-<p align="center"><b>Cybersecurity, Development Tools &amp; Design</b></p>
+<p align="center"><b>Cybersecurity, Development Tools & Design</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -229,17 +231,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=EF4444" alt="Tailwind CSS" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=EF4444" alt="React" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=EF4444" alt="Next.js" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=EF4444" alt="Node.js" />
 </p>
 
 ---
 
-<h2 align="center">🎓 Training &amp; Learning</h2>
+<h2 align="center">🎓 Training & Learning</h2>
 
 <table width="100%" border="0" align="center">
 
@@ -274,7 +276,7 @@
   <h4>🔐 Cybersecurity</h4>
   <p>
     <b>Ostad Institute</b><br />
-    <sub>AI Driven Cyber Security &amp; Ethical Hacking Career Track</sub>
+    <sub>AI Driven Cyber Security & Ethical Hacking Career Track</sub>
   </p>
 </td>
 </tr>
@@ -283,169 +285,60 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
   <i>
-    Live GitHub profile analytics showing my public repositories,
-    programming languages, contribution activity, streak,
-    achievements and development journey.
+    A visual overview of my GitHub activity, repositories,
+    languages and contribution journey.
   </i>
 </p>
 
 <br />
 
-<!-- GitHub Profile Overview -->
-
-<h3 align="center">👤 GitHub Profile Overview</h3>
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=injamamulhoqtamim&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
+    width="100%"
+    style="max-width: 480px;"
+    alt="GitHub Statistics"
+  />
+</p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=InjamamulHoqTamim&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=injamamulhoqtamim&layout=compact&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=10"
+    width="100%"
+    style="max-width: 400px;"
+    alt="Top Programming Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=injamamulhoqtamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
     width="100%"
     style="max-width: 520px;"
-    alt="MD. INJAMAMUL HOQ TAMIM GitHub Statistics"
-  />
-</p>
-
-<!-- Top Languages -->
-
-<h3 align="center">💻 Most Used Programming Languages</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=InjamamulHoqTamim&layout=compact&langs_count=10&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=10"
-    width="100%"
-    style="max-width: 460px;"
-    alt="MD. INJAMAMUL HOQ TAMIM Top Programming Languages"
-  />
-</p>
-
-<!-- Detailed Language Distribution -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=InjamamulHoqTamim&layout=donut&langs_count=8&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444"
-    width="100%"
-    style="max-width: 460px;"
-    alt="Programming Language Distribution"
-  />
-</p>
-
-<!-- Contribution Streak -->
-
-<h3 align="center">🔥 Contribution Streak</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=InjamamulHoqTamim&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
-    width="100%"
-    style="max-width: 560px;"
     alt="GitHub Contribution Streak"
   />
 </p>
 
-<!-- GitHub Trophies -->
-
-<h3 align="center">🏆 GitHub Achievements</h3>
-
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=InjamamulHoqTamim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=injamamulhoqtamim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
     width="100%"
-    style="max-width: 850px;"
+    style="max-width: 800px;"
     alt="GitHub Profile Trophies"
   />
 </p>
 
-<!-- Activity Graph -->
-
-<h3 align="center">📈 Contribution Activity</h3>
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=InjamamulHoqTamim&bg_color=0a0a0a&color=f3f4f6&line=ef4444&point=ffffff&area=true&area_color=7f1d1d&hide_border=false&border_color=ef4444&radius=10"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=injamamulhoqtamim&bg_color=0a0a0a&color=f3f4f6&line=ef4444&point=ffffff&area=true&hide_border=false&border_color=ef4444"
     width="100%"
-    alt="GitHub Contribution Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
-
-<!-- Contribution Calendar -->
-
-<h3 align="center">🗓️ Contribution Calendar</h3>
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/ef4444/InjamamulHoqTamim"
-    width="100%"
-    style="max-width: 900px;"
-    alt="GitHub Contribution Calendar"
-  />
-</p>
-
-<!-- GitHub Metrics -->
-
-<h3 align="center">📌 GitHub Development Metrics</h3>
-
-<table width="100%" border="0" align="center">
-<tr>
-
-<td width="33%" align="center" style="padding: 15px;">
-  <h4>📦 Repositories</h4>
-  <p>
-    <b>Public Projects</b><br />
-    <sub>Automatically updated from GitHub</sub>
-  </p>
-</td>
-
-<td width="33%" align="center" style="padding: 15px;">
-  <h4>⭐ Community</h4>
-  <p>
-    <b>Stars &amp; Followers</b><br />
-    <sub>Live GitHub profile activity</sub>
-  </p>
-</td>
-
-<td width="33%" align="center" style="padding: 15px;">
-  <h4>💡 Contributions</h4>
-  <p>
-    <b>Commits &amp; Activity</b><br />
-    <sub>Contribution graph based</sub>
-  </p>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" style="padding: 15px;">
-  <h4>💻 Languages</h4>
-  <p>
-    <b>Code Distribution</b><br />
-    <sub>Based on repository languages</sub>
-  </p>
-</td>
-
-<td width="33%" align="center" style="padding: 15px;">
-  <h4>🔥 Streak</h4>
-  <p>
-    <b>Contribution Consistency</b><br />
-    <sub>Automatically refreshed</sub>
-  </p>
-</td>
-
-<td width="33%" align="center" style="padding: 15px;">
-  <h4>🏆 Achievements</h4>
-  <p>
-    <b>GitHub Trophies</b><br />
-    <sub>Profile achievements</sub>
-  </p>
-</td>
-
-</tr>
-</table>
-
-<!-- Quote -->
 
 <p align="center">
   <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
@@ -465,7 +358,7 @@
 
 ---
 
-<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+<h2 align="center">📬 Let's Connect & Collaborate</h2>
 
 <p align="center">
   <i>
@@ -501,14 +394,14 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
   <br />
-  <sub><b>Tech &amp; Personal Updates</b></sub>
+  <sub><b>Tech & Personal Updates</b></sub>
 </td>
 
 <td align="center" width="220" style="padding: 18px;">
-  <a href="mailto:injamamulhoqtamim@gmail.com">
+  <a href="mailto:[injamamulhoqtamim@gmail.com](mailto:injamamulhoqtamim@gmail.com)">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
     <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
   <br />
   <sub><b>Direct Collaboration</b></sub>
@@ -522,9 +415,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_To-Collaboration-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Open to Collaboration" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Cybersecurity-111111?style=for-the-badge&labelColor=0a0a0a" alt="Focus Areas" />
-  &nbsp;
+   
   <img src="https://img.shields.io/badge/Based_In-Bangladesh-DC2626?style=for-the-badge&labelColor=0a0a0a" alt="Bangladesh" />
 </p>
 
@@ -535,6 +428,5 @@
 </p>
 
 <p align="center">
-  <sub>© MD. INJAMAMUL HOQ TAMIM • Built with passion, curiosity &amp; code.</sub>
+  <sub>© MD. INJAMAMUL HOQ TAMIM • Built with passion, curiosity & code.</sub>
 </p>
-```
