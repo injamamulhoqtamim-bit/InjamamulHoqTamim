@@ -48,8 +48,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Curious+Mind.+Clean+Code.+Secure+Systems." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
+<!-- Cybersecurity / Ethical Hacking Animation -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" style="max-width: 100%; border-radius: 12px;" alt="Cybersecurity coding animation" />
 </p>
 
 <p align="center">
