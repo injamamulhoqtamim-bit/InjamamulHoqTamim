@@ -285,7 +285,7 @@
 
 ---
 
-```html
+html
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 
 <p align="center">
